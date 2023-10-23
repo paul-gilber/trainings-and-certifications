@@ -24,3 +24,7 @@
 - [Red Hat Certified Specialist in Containers and Kubernetes](https://www.credly.com/badges/74c29c7a-b81b-4971-aea0-25f0f144ba65/public_url)
 ### Issued by Project Management Institute
 - [Disciplined Agile Senior Scrum Master (DASSM)](https://www.credly.com/badges/3d24e1d8-ba52-4f59-8310-c0576a4ead9b/public_url)
+
+## Trainings
+- [GitHub Actions - The Complete Guide](https://www.udemy.com/course/github-actions-the-complete-guide/)
+![Certificate of Completion](./trainings/github-actions-the-complete-guide/certificate-of-completion.jpg)
